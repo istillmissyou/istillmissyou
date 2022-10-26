@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is Danil and am a Python developer
+- 🔭 I’m currently working on shilomagazine.ru
+- 📫 How to reach me: ✉️ danilshtun@yandex.ru | telegram @dbstvhdcistjncdw
 
 ![](https://komarev.com/ghpvc/?username=istillmissyou)
