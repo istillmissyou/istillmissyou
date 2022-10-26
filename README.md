@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!;My+name+is+Danil+and+am+a+Python+developer)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on shilomagazine.ru
 - 📫 How to reach me: ✉️ danilshtun@yandex.ru | telegram @dbstvhdcistjncdw
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=istillmissyou&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=istillmissyou)
