@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Danil and am a Python developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Danil+and+am+a+Python+developer)](https://git.io/typing-svg)
 - 🔭 I’m currently working on shilomagazine.ru
 - 📫 How to reach me: ✉️ danilshtun@yandex.ru | telegram @dbstvhdcistjncdw
 
