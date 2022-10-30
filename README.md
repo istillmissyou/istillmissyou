@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on shilomagazine.ru
 - 📫 How to reach me: ✉️ danilshtun@yandex.ru | telegram @dbstvhdcistjncdw
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=istillmissyou&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=istillmissyou&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![](https://komarev.com/ghpvc/?username=istillmissyou)
