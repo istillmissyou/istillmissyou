@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=istillmissyou&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+[![My GitHub stat](https://github-readme-stats.vercel.app/api?username=istillmissyou)](https://github.com/istillmissyou/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=istillmissyou)
