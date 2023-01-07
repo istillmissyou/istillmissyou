@@ -7,5 +7,3 @@ https://www.codewars.com/users/ssd256
 <!-- [![My GitHub stat](https://github-readme-stats.vercel.app/api?username=istillmissyou)](https://github.com/istillmissyou/github-readme-stats) -->
 
 ![profile views](https://komarev.com/ghpvc/?username=istillmissyou)
-
-✉️ danilshtun@yandex.ru
