@@ -4,6 +4,14 @@
 
 https://www.codewars.com/users/ssd256
 
+NovaLecta - NextJS, Spring, RabbitMQ, Redis https://novalecta.com
+
+Avtokor - NextJS, FastAPI, RabbitMQ, Postgre, Redis https://avtokor.kz
+
+Мир Жирничей - Aiogram, Postgre, Redis, React https://t.me/zhirnich_bot
+
+Анонимный просмотр историй инстаграм - Aiogram, Postgre, RabbitMQ https://t.me/anon_insta_story_bot
+
 <!-- [![My GitHub stat](https://github-readme-stats.vercel.app/api?username=istillmissyou)](https://github.com/istillmissyou/github-readme-stats) -->
 
 ![profile views](https://komarev.com/ghpvc/?username=istillmissyou)
