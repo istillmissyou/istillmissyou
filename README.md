@@ -6,6 +6,8 @@ https://www.codewars.com/users/ssd256
 
 NovaLecta - NextJS, Spring, RabbitMQ, Redis https://novalecta.com
 
+BusinessTools - NextJS, FastAPI, Postgre https://businesstools.io
+
 Avtokor - NextJS, FastAPI, RabbitMQ, Postgre, Redis https://avtokor.kz
 
 Мир Жирничей - Aiogram, Postgre, Redis, React https://t.me/zhirnich_bot
